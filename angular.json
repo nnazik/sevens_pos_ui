@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Sevens-POS"
+    }
+  },
+  "defaultProject": "Sevens-POS",
+  "cli": {
+    "analytics": false
+  }
 }
